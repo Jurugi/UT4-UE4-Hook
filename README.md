@@ -21,6 +21,6 @@ Exercises:
 - see if you can add even a velocity check for aimbot to hit better over range, even if weapon info isn't available, you can hardcode some weapon projectile speeds and do linear math here pretty easily
 
 Purpose:
-The purpose is mostly to demonstrate how a hack could be made on any Unreal Engine 4 game in 64bit very quickly, even given the lack of references/info around for certain titles. 
+The purpose is mostly to demonstrate how a hack could be made on any Unreal Engine game in 64bit very quickly, even given the lack of references/info around (on most titles, UE4 is fairly popular though). There's not much stealth or other methods applied here. 
 
 
